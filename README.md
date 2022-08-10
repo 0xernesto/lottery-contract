@@ -5,7 +5,7 @@ I built, tested, and deployed this simple smart contract to the Rinkeby testnet 
 ## Tech Stack
 - JavaScript
 - Solidity
-- web3.js
+- Web3.js
 - Truffle
 - Mocha
 - Ganache
